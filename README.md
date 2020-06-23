@@ -1,4 +1,4 @@
-# CURLZabbix
+# DynZabbix
 Zabbix Discovery and Template to check HTTP code on dynamic list of URLs (or other stuff ;)
 
 ## Part I : the OS
